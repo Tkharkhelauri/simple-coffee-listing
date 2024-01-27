@@ -1,0 +1,12 @@
+:root {
+  --color-dark-01: 210, 11%, 7%;
+	--color-dark-02: 210, 7%, 11%;
+	--color-gray: 212, 6%, 46%;
+	--color-light-orange: 40, 89%, 69%;
+	--color-light-green: 143, 40%, 82%;
+	--color-offwhite: 34, 89%, 96%;
+	--color-crimson: 9, 80%, 65%;
+
+  --ff-primary:  'DM Sans';
+  --ff-fallback: sans-serif;
+}
